@@ -1,5 +1,5 @@
 ## Under construction...
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,js,py,html,css,sass,git,bash,vscode,django,figma,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,py,js,html,css,sass,git,bash,vscode,django,figma,ai,ps)](https://skillicons.dev)
 <!--
 **mariano-shem/mariano-shem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
