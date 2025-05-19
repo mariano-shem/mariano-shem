@@ -1,5 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,py,django)](https://skillicons.dev)  
+#
 [![My Skills](https://skillicons.dev/icons?i=git,bash,linux,ubuntu,vscode)](https://skillicons.dev)  
+#
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)  
 
 <!--
