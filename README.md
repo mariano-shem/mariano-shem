@@ -7,7 +7,7 @@
 
 
 ## I'm currently...
-- working on [gwd-tools](https://null), a toolset website like [Tinywow](https://tinywow.com/) and [IT-Tools](https://it-tools.tech/) but for graphic and web design.
+- working on [gwd-tools](https://github.com/sheeemboi/graphic-and-web-design-tools), a toolset website for graphic and web design inspired from [Tinywow](https://tinywow.com/) and [IT-Tools](https://it-tools.tech/).
 - learning:  
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
