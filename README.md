@@ -9,7 +9,7 @@
 
 
 ### I'm currently...
-- working on my [portfolio](https://github.com/sheeemboi/portfoilio) using SvelteKit and Flowbite-Svelte.
+- working on my [portfolio](https://github.com/sheeemboi/portfolio) using SvelteKit and Flowbite-Svelte.
 - learning:  
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
