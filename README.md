@@ -1,5 +1,5 @@
 # About Me
-23-year-old someone who went late into web development. Does graphic design and layout since high school but now shifts focus into frontend development.  
+Hi! I’m a frontend developer with roots in graphic design and layout, bringing creativity and precision into modern web development.  
 ### Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
